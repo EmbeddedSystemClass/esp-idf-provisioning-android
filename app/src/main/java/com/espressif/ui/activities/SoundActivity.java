@@ -1,5 +1,6 @@
 package com.espressif.ui.activities;
 
+
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
@@ -17,6 +18,8 @@ import com.espressif.provision.R;
 import com.espressif.provision.transport.ResponseListener;
 import com.espressif.ui.models.DeviceInfo;
 import com.google.protobuf.InvalidProtocolBufferException;
+
+
 
 import avs.Avsconfig;
 import cn.pedant.SweetAlert.SweetAlertDialog;
